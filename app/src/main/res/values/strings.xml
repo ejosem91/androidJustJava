@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">androidJustJava</string>
+    <string name="app_name">andtroidJustJava</string>
+    <string name="thank_you" translatable="false">Thank You</string>
 </resources>
